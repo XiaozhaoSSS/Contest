@@ -1,0 +1,2 @@
+model_checkpoint_path: "Rice_yield_prediction_LSTM_model"
+all_model_checkpoint_paths: "Rice_yield_prediction_LSTM_model"
